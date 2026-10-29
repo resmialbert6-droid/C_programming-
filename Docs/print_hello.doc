@@ -1,0 +1,27 @@
+What I Learned About Printing Hello, World! in C
+
+Today, I learned how to write my first C program in VS Code.
+
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
+
+What I Learned
+#include <stdio.h> is used to include the standard input/output library.
+int main() is the main function where the program starts running.
+printf() is used to print text on the screen.
+Text must be written inside double quotation marks (" ").
+The semicolon (;) is used to end a statement in C.
+\n moves the cursor to a new line.
+return 0; indicates that the program finished successfully.
+
+Output
+
+Hello, World!
+
+Conclusion
+
+I learned how to write, save, and run a simple C program in VS Code. This is my first step toward learning C programming.
