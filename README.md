@@ -6,11 +6,11 @@ I recently started learning C programming from the beginning. This repository is
 
  My Goals
 
-- Learn C programming from the ground up.
-- Develop a clear understanding of basic programming concepts.
+- Learn C programming from the basic level.
+- Develop  good  basic programming concepts.
 - Improve my coding skills through regular practice.
-- Create small projects using the concepts I learn.
-- Monitor my progress and become more confident in programming.
+- Create small projects using the concepts I learn everyday.
+- Monitor my progress and become more advanced and  confident in programming.
 
  My Learning Roadmap
 
@@ -85,7 +85,7 @@ I am following a step-by-step approach to understand C programming and build a s
 - Declaring and using variables
 - Understanding format specifiers
 
-As I continue learning, I will add more concepts and examples to this section.
+As I continue learning, I will add more concepts and examples to this section .
 
  My Approach to Learning
 
